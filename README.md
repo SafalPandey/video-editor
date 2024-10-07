@@ -27,4 +27,4 @@ I’ve been working on the video editor, and I’m making some great progress on
 
 - Refine the band-pass filter based on test results.
 - Work on optimizing the noise reduction algorithm.
-- Start developing the user interface for the noise reduction feature.
+- Start developing the user interface for the noise reduction feature
